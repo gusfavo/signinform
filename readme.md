@@ -6,4 +6,4 @@ Para ver o projeto na web [Clique aqui](https://gusfavo.github.io/signinform/)
 
 ### Aprendizados
 - Tags html para formulario como: form, input, checkbox
-- Css: posicionar elementos usando display block e position absolute
+- Css: posicionar elementos usando display block e position absolute!
